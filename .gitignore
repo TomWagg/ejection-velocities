@@ -1,2 +1,4 @@
 *.ipynb_checkpoints/
 data/
+paper_RNAAS/
+__pycache__/
