@@ -2,3 +2,5 @@
 data/
 paper_RNAAS/
 __pycache__/
+*.synctex.gz
+*.bbl
